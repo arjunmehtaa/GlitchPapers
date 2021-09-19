@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="4dp"
+        android:text="Set wallpaper on"
+        android:textColor="@color/viewImageDefaultTextColor"
+        android:fontFamily="@font/montserrat_alternates"
+        android:textAlignment="center"
+        android:textAllCaps="true"/>
+
+
+    <Button
+        android:id="@+id/homeScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="6dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/pill"
+        android:fontFamily="@font/montserrat_alternates"
+        android:onClick="setHomeScreen"
+        android:text="@string/view_image_home_screen"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/lockScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="6dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/pill"
+        android:fontFamily="@font/montserrat_alternates"
+        android:onClick="setLockScreen"
+        android:text="@string/view_image_lock_screen"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bothScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/pill"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/montserrat_alternates"
+        android:onClick="setBothScreen"
+        android:text="@string/view_image_both"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="4dp"
+        android:text="Or"
+        android:textColor="@color/viewImageDefaultTextColor"
+        android:fontFamily="@font/montserrat_alternates"
+        android:textAlignment="center"
+        android:textAllCaps="true"/>
+
+    <Button
+        android:id="@+id/GalSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/pill"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/montserrat_alternates"
+        android:onClick="saveToGallery"
+        android:text="@string/view_image_save_to_gallery"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>

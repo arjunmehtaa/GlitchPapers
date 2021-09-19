@@ -1,0 +1,14 @@
+<resources>
+    <!-- Preference -->
+    <string-array name="dark_mode_entries">
+        <item>System Default</item>
+        <item>Light Mode</item>
+        <item>Dark Mode</item>
+    </string-array>
+
+    <string-array name="dark_mode_values">
+        <item>system default</item>
+        <item>light mode</item>
+        <item>dark mode</item>
+    </string-array>
+</resources>

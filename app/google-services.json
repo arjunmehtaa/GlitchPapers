@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493586726692",
+    "firebase_url": "https://glitchpapers.firebaseio.com",
+    "project_id": "glitchpapers",
+    "storage_bucket": "glitchpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493586726692:android:37dc4a066d71af1becfdb1",
+        "android_client_info": {
+          "package_name": "com.example.arjuj.glitchpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493586726692-hrhp0a2bgdtkvrvvae6eghp21ksdhcin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arjuj.glitchpapers",
+            "certificate_hash": "7be6a249d03bde3c32d9f78d27341c42ef6a864f"
+          }
+        },
+        {
+          "client_id": "493586726692-km4dgvp96ii6t67e30gga5q4b57ntllv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hNULBwNfxL6pMAtmJMfKsB-6jHrLY7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493586726692-km4dgvp96ii6t67e30gga5q4b57ntllv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

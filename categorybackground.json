@@ -1,0 +1,38 @@
+{
+
+	"CategoryBackground":
+
+	{
+	
+		"1":
+		{
+			"imageLink":"https://i.postimg.cc/fy0pN4Dy/ocean.jpg",
+			"name":"Ocean"
+		},
+
+		"2":
+		{
+			"imageLink":"https://i.postimg.cc/s2xRNNQQ/desert.jpg",
+			"name":"Desert"
+		},
+
+		"3":
+		{
+			"imageLink":"https://i.postimg.cc/Kv5Sv2t3/psychedelic.jpg",
+			"name":"Psychedelic"
+		},
+
+		"4":
+		{
+			"imageLink":"https://i.postimg.cc/PrbpXP6b/sunset.jpg",
+			"name":"Sunset"
+		},
+
+		"5":
+		{
+			"imageLink":"https://i.postimg.cc/tRW7ksH0/dark.jpg",
+			"name":"Dark"
+		}
+
+	}
+}

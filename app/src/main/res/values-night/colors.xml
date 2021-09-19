@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#ff8587</color>
+    <color name="GreyYo">#303030</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="LabelColor">#FFFFFF</color>
+    <color name="pillColor">#303030</color>
+
+    <color name="galleryBackground">#303030</color>
+    <color name="bottomDialogBackground">#000000</color>
+    <color name="viewImageDefaultTextColor">@android:color/primary_text_dark</color>
+</resources>

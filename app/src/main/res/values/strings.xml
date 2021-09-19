@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GlitchPapers</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Preferences -->
+    <string name="preference_appearance">Appearance</string>
+
+    <!-- View Image Activity -->
+    <string name="view_image_home_screen">Home Screen &#127968;</string>
+    <string name="view_image_lock_screen">Lock Screen &#128274;</string>
+    <string name="view_image_both">Both &#9996;</string>
+    <string name="view_image_save_to_gallery">Save To Gallery &#128190;</string>
+</resources>
